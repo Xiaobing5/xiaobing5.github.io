@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "yin/mcmodyin.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,7 +182,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5229eefe63c7a6b7",
+  "active": "14f2125250996663",
   "lastOpenFiles": [
     "yin/mcmodclientmodyin.md",
     "yin/mcmodyin.md",
