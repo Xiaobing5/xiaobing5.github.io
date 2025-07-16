@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Minecraft/MCclientmod/clientcommands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "clientcommands"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft/MC辅助介绍/ccmods/calias.md",
+                "file": "Minecraft/MCclientmod/ccmods/calias.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Minecraft/MCclientmod/clientcommands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "clientcommands 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Minecraft/MCclientmod/clientcommands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "clientcommands 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Minecraft/MCclientmod/clientcommands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "clientcommands 的大纲"
             }
           }
         ]
@@ -184,19 +184,19 @@
   },
   "active": "14f2125250996663",
   "lastOpenFiles": [
-    "Minecraft.md",
-    "mcmodyin.md",
+    "Minecraft/MCclientmod/ccmods/careastats.md",
+    "Minecraft/MCclientmod/ccmods/calias.md",
+    "Minecraft/MCclientmod/clientcommands.md",
     "mcmodclientmodyin.md",
+    "mcmodyin.md",
+    "Minecraft.md",
     "index.md",
-    "Minecraft/MC辅助介绍/clientcommands.md",
     "yin",
-    "Minecraft/MC辅助介绍/ccmods/careastats.md",
-    "Minecraft/MC辅助介绍/ccmods/calias.md",
     "Minecraft/MC辅助介绍/ccmods/careastats 1.md",
-    "Minecraft/MC辅助介绍/ccmods",
-    "Minecraft/MC辅助介绍",
-    "Minecraft/MC辅助介绍/ccmods",
+    "Minecraft/MCclientmod/ccmods",
+    "Minecraft/MCclientmod",
+    "Minecraft/MCclientmod/ccmods",
     "Minecraft",
-    "Minecraft/MC辅助介绍"
+    "Minecraft/MCclientmod"
   ]
 }

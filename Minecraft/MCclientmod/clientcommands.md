@@ -1,8 +1,8 @@
 *本页介绍了 ClientCommands 提供的所有内容。单击命令可查看有关该命令的其他信息。*
 
 # 命令
-[/calias](Minecraft/MC辅助介绍/ccmods/calias.md)：为命令创建别名。
-<br>[/careastats](Minecraft/MC辅助介绍/ccmods/careastats.md)：显示特定区域的统计信息。
+[/calias](MCclientmod/ccmods/calias.md)：为命令创建别名。
+<br>[/careastats](careastats.md)：显示特定区域的统计信息。
 <br>[/cbook：对于具有区块保存状态的内容很有用（仅在 1.15 及更低版本中启用）。
 <br>[/ccalc：计算器。
 <br>[/ccalcstack：物品堆栈计算器。
