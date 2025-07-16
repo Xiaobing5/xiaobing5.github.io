@@ -1,6 +1,6 @@
 # 与 Minecraft 有关的文件大纲
 
-- ## [About MC mods ](yin/mcmodyin.md)
+- ## [About MC mods ](mcmodyin.md)
 ==关于MC模组的一些分享==
 ***
 - ## [About MC worlds](mcworldyin.md)
