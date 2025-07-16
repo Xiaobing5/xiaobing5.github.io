@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "c2b98b465aadef0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb8c26a8329d7dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14f2125250996663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft/MC辅助介绍/ccmods/careastats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "careastats"
+            }
+          },
+          {
+            "id": "2211fd13df78ee61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft/MC辅助介绍/ccmods/calias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "calias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42ebad802788c331",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ea1e9d971b3743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5229eefe63c7a6b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "537c0332332a6587",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2b4643b557b6aff6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ef3ddf344c6bdb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bccc29aa5fe5d07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5ca4bb896ef159",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Minecraft/MC辅助介绍/ccmods/careastats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "careastats 的反向链接列表"
+            }
+          },
+          {
+            "id": "9c49f9f6d8c1c40e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Minecraft/MC辅助介绍/ccmods/careastats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "careastats 的出链列表"
+            }
+          },
+          {
+            "id": "59078b896c718bf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "203806469be415b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Minecraft/MC辅助介绍/ccmods/careastats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "careastats 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "14f2125250996663",
+  "lastOpenFiles": [
+    "Minecraft/MC辅助介绍/ccmods/calias.md",
+    "Minecraft/MC辅助介绍/clientcommands.md",
+    "Minecraft/MC辅助介绍/ccmods/careastats.md",
+    "Minecraft/MC辅助介绍/ccmods/careastats 1.md",
+    "Minecraft/MC辅助介绍/ccmods",
+    "Minecraft/MC辅助介绍",
+    "Minecraft/MC辅助介绍/ccmods",
+    "Minecraft",
+    "Minecraft/MC辅助介绍"
+  ]
+}
