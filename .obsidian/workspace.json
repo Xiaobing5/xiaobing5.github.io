@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yin/mcmodyin.md",
+                "file": "yin/mcmodclientmodyin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mcmodyin"
+              "title": "mcmodclientmodyin"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yin/mcmodyin.md",
+                "file": "yin/mcmodclientmodyin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "mcmodyin 的反向链接列表"
+              "title": "mcmodclientmodyin 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yin/mcmodyin.md",
+                "file": "yin/mcmodclientmodyin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "mcmodyin 的出链列表"
+              "title": "mcmodclientmodyin 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yin/mcmodyin.md",
+                "file": "yin/mcmodclientmodyin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "mcmodyin 的大纲"
+              "title": "mcmodclientmodyin 的大纲"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "14f2125250996663",
   "lastOpenFiles": [
+    "Minecraft/MC辅助介绍/clientcommands.md",
     "yin/mcmodclientmodyin.md",
     "yin/mcmodyin.md",
-    "Minecraft/MC辅助介绍/clientcommands.md",
     "Minecraft.md",
     "yin",
     "index.md",
