@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft/MCclientmod/clientcommands.md",
+                "file": "Minecraft/MCclientmod/Baritone--by FL外纪配置参数下载站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clientcommands"
+              "title": "Baritone--by FL外纪配置参数下载站"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft/MCclientmod/clientcommands.md",
+                "file": "Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "clientcommands 的反向链接列表"
+              "title": "Minecraft 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/MCclientmod/clientcommands.md",
+                "file": "Minecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "clientcommands 的出链列表"
+              "title": "Minecraft 的出链列表"
             }
           },
           {
@@ -156,13 +156,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft/MCclientmod/clientcommands.md",
+                "file": "Minecraft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "clientcommands 的大纲"
+              "title": "Minecraft 的大纲"
+            }
+          },
+          {
+            "id": "daf6b97cc3abd901",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
             }
           }
         ]
@@ -174,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -184,13 +195,17 @@
   },
   "active": "14f2125250996663",
   "lastOpenFiles": [
-    "Minecraft/MCclientmod/ccmods/careastats.md",
-    "Minecraft/MCclientmod/ccmods/calias.md",
     "Minecraft/MCclientmod/clientcommands.md",
+    "Minecraft/MCclientmod/Baritone官方文档.md",
+    "Minecraft/MCclientmod/Baritone--by FL外纪配置参数下载站.md",
+    "Minecraft/MCclientmod/ccmods/calias.md",
     "mcmodclientmodyin.md",
     "mcmodyin.md",
     "Minecraft.md",
+    "wuli.md",
     "index.md",
+    "40届预赛试题.pdf",
+    "Minecraft/MCclientmod/ccmods/careastats.md",
     "yin",
     "Minecraft/MC辅助介绍/ccmods/careastats 1.md",
     "Minecraft/MCclientmod/ccmods",
