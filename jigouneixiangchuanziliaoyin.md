@@ -5,7 +5,7 @@
 ***
 - ## 
 ***
-* ## [机构内相传资料](jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md)
+* ## [48个国际音标发音指南](jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md)
 
 ***
 * ## 
