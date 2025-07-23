@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft/MCclientmod/ccmods/calias.md",
+                "file": "daystimu/timuday1d.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calias"
+              "title": "timuday1d"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +192,16 @@
   },
   "active": "2211fd13df78ee61",
   "lastOpenFiles": [
-    "timuday1.md",
-    "1.md",
+    "daystimu/images/66c96fd59a76423cf151b6b13f97e78.jpg",
+    "daystimu/timuday1d.md",
+    "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
+    "jigouneixiangchuanziliaoyin.md",
+    "daystimu/images",
+    "daystimu",
+    "timuday1daan.md",
     "wuligongjuyin.md",
+    "Minecraft/MCclientmod/ccmods/calias.md",
+    "1.md",
     "40届预赛试题.pdf",
     "yingyuyin.md",
     "meiriyiti.md",
@@ -202,13 +209,10 @@
     "Minecraft.md",
     "mcmodclientmodyin.md",
     "kelinsicidianfenjicihui.md",
-    "Minecraft/MCclientmod/ccmods/calias.md",
-    "jigouneixiangchuanziliaoyin.md",
     "mcmodyin.md",
     "Minecraft/MCclientmod/clientcommands.md",
     "Minecraft/MCclientmod/Baritoneguanfang.md",
     "Minecraft/MCclientmod/Baritone--byFL外纪配置参数下载站.md",
-    "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
     "jigouxiangchuanziliao/images/fa49e1d8edda3194472764a61369688.png",
     "jigouxiangchuanziliao/images/2614bd152bd2bbb6ccbb4ec9ca22900.png",
     "jigouxiangchuanziliao/images/7b6daad1f9f062231179a24611d191f.png",
@@ -218,7 +222,6 @@
     "jigouxiangchuanziliao/images/e2aa718026fedfe263b1ec048328a0e.png",
     "jigouxiangchuanziliao/images/48d57e1d730ec4c1f17b760219f8246.png",
     "jigouxiangchuanziliao/images/965ed67b9726edeee25314cd866e4f3.png",
-    "jigouxiangchuanziliao/images/e5dd05d68e1ad47651ff0ae0f581b7f.png",
     "().md",
     "jigouxiangchuanziliao",
     "jigouxiangchuanziliao/images",
@@ -230,8 +233,6 @@
     "Minecraft/MC辅助介绍/ccmods/careastats 1.md",
     "Minecraft/MCclientmod/ccmods",
     "Minecraft/MCclientmod",
-    "Minecraft/MCclientmod/ccmods",
-    "Minecraft",
-    "Minecraft/MCclientmod"
+    "Minecraft/MCclientmod/ccmods"
   ]
 }

@@ -27,8 +27,6 @@ x & 1 & 1 \\
 \end{vmatrix} = 0
 $$
 
-<details>
-<summary>🔍 查看解答</summary>
 
 #### 解答步骤：  
 1. **行列式计算（沙路法）**：  
@@ -67,8 +65,6 @@ $$
 \end{vmatrix} = 0
 $$
 
-<details>
-<summary>🔍 查看解答</summary>
 
 #### 解答步骤：  
 1. **行列式计算（按第一行展开）**：  
@@ -89,7 +85,8 @@ $$
    \lambda\left(\lambda^2 - \dfrac{1}{2}\right) = 0
    $$
 
-   **解**：\(\lambda_1 = 0\)，\(\lambda_2 = \dfrac{\sqrt{2}}{2}\)，\(\lambda_3 = -\dfrac{\sqrt{2}}{2}\)。  
+   **解**：
+   $$(\lambda_1 = 0)，(\lambda_2 = \dfrac{\sqrt{2}}{2})，(\lambda_3 = -\dfrac{\sqrt{2}}{2})。  $$
    </details>
 
 
@@ -111,8 +108,6 @@ $$
 
 **提示**：齐次方程组有非零解的充要条件是**系数行列式为0**。
 
-<details>
-<summary>🔍 查看解答</summary>
 
 #### 解答步骤：  
 1. **构造系数行列式**：  
@@ -171,8 +166,7 @@ $$
 
 **提示**：向量组线性相关的充要条件是**其构成的行列式为0**（向量作为矩阵的行或列）。
 
-<details>
-<summary>🔍 查看解答</summary>
+
 
 #### 解答步骤：  
 1. **构造行列式**：  
@@ -186,7 +180,7 @@ $$
    \end{vmatrix}
    $$
 
-3. **按第二行展开计算**：  
+2. **按第二行展开计算**：  
    第二行元素为 \(k, 1, 0\)，对应的**代数余子式**（符号为 \((-1)^{i+j}\)，\(i\) 为行号，\(j\) 为列号）为：  
 
    $$
@@ -194,8 +188,8 @@ $$
    $$
 
    计算余子式（去掉所在行和列后的二阶行列式）：  
-   - \(\begin{vmatrix}2 & 3 \\ 3 & 1\end{vmatrix} = 2 \times 1 - 3 \times 3 = -7\)  
-   - \(\begin{vmatrix}1 & 3 \\ 2 & 1\end{vmatrix} = 1 \times 1 - 3 \times 2 = -5\)  
+   -$$ (\begin{vmatrix}2 & 3 \\ 3 & 1\end{vmatrix} = 2 \times 1 - 3 \times 3 = -7)  
+   - (\begin{vmatrix}1 & 3 \\ 2 & 1\end{vmatrix} = 1 \times 1 - 3 \times 2 = -5)  $$
 
    代入代数余子式计算：  
    $$
@@ -229,8 +223,6 @@ b & b & a
 \end{vmatrix} = 0
 $$
 
-<details>
-<summary>🔍 查看解答</summary>
 
 #### 解答步骤：  
 1. **行列式计算（对称结构化简）**：  
