@@ -1,3 +1,3 @@
 # ***每日一题***
 ***
-## [day1](timuday1daan.md)
+## [day1](daystimu/timuday1d.md)
