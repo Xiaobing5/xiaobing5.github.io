@@ -1,4 +1,6 @@
 [
   "obsidian-text-expander-js",
-  "quickadd"
+  "quickadd",
+  "copilot",
+  "obsidian-linter"
 ]
