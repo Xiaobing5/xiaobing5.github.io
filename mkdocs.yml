@@ -39,6 +39,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
+        - math.enable
 
 # Extensions
 markdown_extensions:
@@ -52,7 +53,7 @@ markdown_extensions:
   - mdx_breakless_lists
   - def_list
   - pymdownx.arithmatex:
-      generic: true
+      generic: false
   - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.critic
