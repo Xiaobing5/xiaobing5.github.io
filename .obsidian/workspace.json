@@ -13,30 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timuday2daan.md",
+                "file": "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timuday2daan"
+              "title": "zhuijixunxinjilu"
             }
           },
           {
-            "id": "222ea9d04527a369",
+            "id": "47ab07ef3ea72872",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
+          },
+          {
+            "id": "e2640bff6453bc6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shiyanwenjian.md",
+                "file": "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shiyanwenjian"
+              "title": "zhuijixunxinjilu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.5
   },
   "right": {
     "id": "1ef3ddf344c6bdb8",
@@ -195,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -205,31 +217,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "222ea9d04527a369",
+  "active": "2211fd13df78ee61",
   "lastOpenFiles": [
+    "11xiaobingdesirenkongjian/images/1759061708640.jpeg",
+    "11xiaobingdesirenkongjian/images/1759061708226.jpeg",
+    "11xiaobingdesirenkongjian/images/1759061709916.jpeg",
+    "11xiaobingdesirenkongjian/images/1759061709645.jpeg",
+    "11xiaobingdesirenkongjian/images/1759061709211.jpeg",
+    "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
+    "jigouxiangchuanziliao/images/1b0ddd602dd0cce6ce82ec6801c021eba6ebc41be4c1c6f86f31431a9b1bc0eb.jpg",
+    "daystimu/images/11a8990a97210b7d205a1c1d30450cb.jpg",
+    "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
+    "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 201341.png",
+    "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 201452.png",
+    "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 200830.png",
+    "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 200813.png",
+    "11xiaobingdesirenkongjian/images",
+    "11xiaobingdesirenkongjianyin.md",
+    "chuangjianlianggangbiao.md",
+    "jigouneixiangchuanziliaoyin.md",
+    "mcmodclientmodyin.md",
+    "1.md",
+    "index.md",
+    "11xiaobingdesirenkongjian",
+    "timuday2daan.md",
+    "shiyanwenjian.md",
     "docs/assets/js/render-math.js",
     "docs/assets/js/新建 文本文档.txt",
-    "index.md",
-    "shiyanwenjian.md",
     "liangganghebiaodulu.md",
     "5gubokn0.ssd~",
-    "mcmodclientmodyin.md",
     "meiriyiti.md",
     "mcmodyin.md",
-    "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
-    "jigouneixiangchuanziliaoyin.md",
     "kelinsicidianfenjicihui.md",
-    "chuangjianlianggangbiao.md",
     "wuligongjuyin.md",
     "yingyuyin.md",
     "daystimu/timuday1d.md",
     "daystimu/timuday2d.md",
     "40届预赛试题.pdf",
-    "1.md",
-    "timuday2daan.md",
     "timuday1daan.md",
-    "daystimu/images/66c96fd59a76423cf151b6b13f97e78.jpg",
-    "daystimu/images/11a8990a97210b7d205a1c1d30450cb.jpg",
     "daystimu/timuday1.md",
     "daystimu/images",
     "daystimu",
@@ -238,20 +263,7 @@
     "Minecraft/MCclientmod/clientcommands.md",
     "Minecraft/MCclientmod/Baritoneguanfang.md",
     "Minecraft/MCclientmod/Baritone--byFL外纪配置参数下载站.md",
-    "jigouxiangchuanziliao/images/fa49e1d8edda3194472764a61369688.png",
-    "jigouxiangchuanziliao/images/2614bd152bd2bbb6ccbb4ec9ca22900.png",
-    "jigouxiangchuanziliao/images/7b6daad1f9f062231179a24611d191f.png",
-    "jigouxiangchuanziliao/images/8a30676959394787e83a3071d356ff5.png",
-    "jigouxiangchuanziliao/images/1e3dee0a6260357a65ce714246ce46e.png",
-    "jigouxiangchuanziliao/images/541b3d2b716a14d91b880cdff7f2abf.png",
-    "jigouxiangchuanziliao/images/e2aa718026fedfe263b1ec048328a0e.png",
-    "jigouxiangchuanziliao/images/48d57e1d730ec4c1f17b760219f8246.png",
-    "().md",
     "jigouxiangchuanziliao",
-    "jigouxiangchuanziliao/images",
-    "yingyuvipzichan",
-    "Baritone--by.md",
-    "yin",
-    "Minecraft/MCclientmod/ccmods"
+    "jigouxiangchuanziliao/images"
   ]
 }
