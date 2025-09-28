@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "11xiaobingdesirenkongjianyin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11xiaobingdesirenkongjianyin"
+            }
+          },
+          {
+            "id": "7c7fde5ff87e399e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
                 "mode": "source",
                 "source": false
@@ -47,7 +61,8 @@
               "title": "zhuijixunxinjilu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +232,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2211fd13df78ee61",
+  "active": "7c7fde5ff87e399e",
   "lastOpenFiles": [
+    "11xiaobingdesirenkongjianyin.md",
+    "index.md",
+    "shiyanwenjian.md",
+    "Minecraft.md",
+    "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
     "11xiaobingdesirenkongjian/images/1759061708640.jpeg",
     "11xiaobingdesirenkongjian/images/1759061708226.jpeg",
     "11xiaobingdesirenkongjian/images/1759061709916.jpeg",
@@ -227,21 +247,16 @@
     "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
     "jigouxiangchuanziliao/images/1b0ddd602dd0cce6ce82ec6801c021eba6ebc41be4c1c6f86f31431a9b1bc0eb.jpg",
     "daystimu/images/11a8990a97210b7d205a1c1d30450cb.jpg",
-    "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
     "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 201341.png",
     "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 201452.png",
     "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 200830.png",
-    "11xiaobingdesirenkongjian/images/屏幕截图 2025-09-28 200813.png",
     "11xiaobingdesirenkongjian/images",
-    "11xiaobingdesirenkongjianyin.md",
     "chuangjianlianggangbiao.md",
     "jigouneixiangchuanziliaoyin.md",
     "mcmodclientmodyin.md",
     "1.md",
-    "index.md",
     "11xiaobingdesirenkongjian",
     "timuday2daan.md",
-    "shiyanwenjian.md",
     "docs/assets/js/render-math.js",
     "docs/assets/js/新建 文本文档.txt",
     "liangganghebiaodulu.md",
@@ -259,7 +274,6 @@
     "daystimu/images",
     "daystimu",
     "Minecraft/MCclientmod/ccmods/calias.md",
-    "Minecraft.md",
     "Minecraft/MCclientmod/clientcommands.md",
     "Minecraft/MCclientmod/Baritoneguanfang.md",
     "Minecraft/MCclientmod/Baritone--byFL外纪配置参数下载站.md",
