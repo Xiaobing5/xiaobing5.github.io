@@ -11,12 +11,12 @@
             "id": "47ab07ef3ea72872",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "pdf",
               "state": {
-                "file": "fangcheng.mp4"
+                "file": "40届预赛试题.pdf"
               },
-              "icon": "lucide-file",
-              "title": "fangcheng"
+              "icon": "lucide-file-text",
+              "title": "40届预赛试题"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fangcheng.mp4",
+                "file": "40届预赛试题.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "fangcheng 的大纲"
+              "title": "40届预赛试题 的大纲"
             }
           },
           {
