@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zhuijixunxinjilu"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "zhuijixunxinjilu 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -193,6 +193,12 @@
   },
   "active": "47ab07ef3ea72872",
   "lastOpenFiles": [
+    "fangcheng.mp4",
+    "index.md",
+    "1.md",
+    "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
+    "shipinshiyan/shishi.md",
+    "shipinshiyan",
     "11xiaobingdesirenkongjian/images/201129.png",
     "11xiaobingdesirenkongjian/images/201139.png",
     "11xiaobingdesirenkongjian/images/201153.png",
@@ -203,22 +209,18 @@
     "11xiaobingdesirenkongjian/images/201315.png",
     "11xiaobingdesirenkongjian/images/201341.png",
     "11xiaobingdesirenkongjian/images/201349.png",
-    "11xiaobingdesirenkongjian/images/201402.png",
-    "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
     "images/2025-09-28.md",
     "images",
     "images.md",
     "2025-09-28.md",
     "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
     "11xiaobingdesirenkongjianyin.md",
-    "index.md",
     "shiyanwenjian.md",
     "Minecraft.md",
     "11xiaobingdesirenkongjian/images",
     "chuangjianlianggangbiao.md",
     "jigouneixiangchuanziliaoyin.md",
     "mcmodclientmodyin.md",
-    "1.md",
     "11xiaobingdesirenkongjian",
     "timuday2daan.md",
     "docs/assets/js/render-math.js",
@@ -235,9 +237,6 @@
     "40届预赛试题.pdf",
     "timuday1daan.md",
     "daystimu/timuday1.md",
-    "daystimu/images",
-    "daystimu",
-    "Minecraft/MCclientmod/ccmods/calias.md",
-    "jigouxiangchuanziliao"
+    "daystimu/images"
   ]
 }
