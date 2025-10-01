@@ -11,12 +11,14 @@
             "id": "47ab07ef3ea72872",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "40届预赛试题.pdf"
+                "file": "shiyanwenjian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "40届预赛试题"
+              "icon": "lucide-file",
+              "title": "shiyanwenjian"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40届预赛试题.pdf",
+                "file": "shiyanwenjian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "40届预赛试题 的大纲"
+              "title": "shiyanwenjian 的大纲"
             }
           },
           {
@@ -192,6 +194,10 @@
   "active": "47ab07ef3ea72872",
   "lastOpenFiles": [
     "index.md",
+    "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
+    "jigouneixiangchuanziliaoyin.md",
+    "yingyuyin.md",
+    "40届预赛试题.pdf",
     "fangcheng.mp4",
     "1.md",
     "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
@@ -211,13 +217,11 @@
     "images",
     "images.md",
     "2025-09-28.md",
-    "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
     "11xiaobingdesirenkongjianyin.md",
     "shiyanwenjian.md",
     "Minecraft.md",
     "11xiaobingdesirenkongjian/images",
     "chuangjianlianggangbiao.md",
-    "jigouneixiangchuanziliaoyin.md",
     "mcmodclientmodyin.md",
     "11xiaobingdesirenkongjian",
     "timuday2daan.md",
@@ -229,10 +233,8 @@
     "mcmodyin.md",
     "kelinsicidianfenjicihui.md",
     "wuligongjuyin.md",
-    "yingyuyin.md",
     "daystimu/timuday1d.md",
     "daystimu/timuday2d.md",
-    "40届预赛试题.pdf",
     "timuday1daan.md",
     "daystimu/timuday1.md",
     "daystimu/images"
