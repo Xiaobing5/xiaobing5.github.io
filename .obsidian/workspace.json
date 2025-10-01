@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shiyanwenjian.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shiyanwenjian"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shiyanwenjian.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "shiyanwenjian 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -194,12 +194,16 @@
   "active": "47ab07ef3ea72872",
   "lastOpenFiles": [
     "index.md",
+    "fangcheng.mp4",
+    "1.md",
+    "111.md",
+    "ziliaogongxiangchu",
+    "新建文件夹",
+    "40届预赛试题.pdf",
+    "shiyanwenjian.md",
     "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
     "jigouneixiangchuanziliaoyin.md",
     "yingyuyin.md",
-    "40届预赛试题.pdf",
-    "fangcheng.mp4",
-    "1.md",
     "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
     "shipinshiyan/shishi.md",
     "shipinshiyan",
@@ -218,7 +222,6 @@
     "images.md",
     "2025-09-28.md",
     "11xiaobingdesirenkongjianyin.md",
-    "shiyanwenjian.md",
     "Minecraft.md",
     "11xiaobingdesirenkongjian/images",
     "chuangjianlianggangbiao.md",
@@ -228,15 +231,12 @@
     "docs/assets/js/render-math.js",
     "docs/assets/js/新建 文本文档.txt",
     "liangganghebiaodulu.md",
-    "5gubokn0.ssd~",
     "meiriyiti.md",
     "mcmodyin.md",
     "kelinsicidianfenjicihui.md",
     "wuligongjuyin.md",
     "daystimu/timuday1d.md",
     "daystimu/timuday2d.md",
-    "timuday1daan.md",
-    "daystimu/timuday1.md",
-    "daystimu/images"
+    "timuday1daan.md"
   ]
 }
