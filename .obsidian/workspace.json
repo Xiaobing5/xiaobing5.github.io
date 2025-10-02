@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Flprem/Flprem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Flprem"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,20 +194,27 @@
   },
   "active": "47ab07ef3ea72872",
   "lastOpenFiles": [
+    "Flprem/images/19938438.mp4",
+    "Flprem/Flprem.md",
+    "images/2025-09-28.md",
+    "Flprem/images",
+    "Flprem",
     "index.md",
+    "ziliaogongxiangchu/“●_202510011512_24152.hinote",
+    "ziliaogongxiangchu/“●_202510011512_24152.hinote.nssyncsc",
+    "ziliaogongxiangchu/25-10-01-15-11-17.txt",
+    "ziliaogongxiangchu/25-10-01-15-11-17.txt.nssyncsc",
     "fangcheng.mp4",
     "1.md",
     "111.md",
     "ziliaogongxiangchu",
     "新建文件夹",
-    "40届预赛试题.pdf",
     "shiyanwenjian.md",
     "jigouxiangchuanziliao/guojiyinbiaofayinzhinan.md",
     "jigouneixiangchuanziliaoyin.md",
     "yingyuyin.md",
     "11xiaobingdesirenkongjian/zhuijixunxinjilu.md",
     "shipinshiyan/shishi.md",
-    "shipinshiyan",
     "11xiaobingdesirenkongjian/images/201129.png",
     "11xiaobingdesirenkongjian/images/201139.png",
     "11xiaobingdesirenkongjian/images/201153.png",
@@ -217,26 +225,19 @@
     "11xiaobingdesirenkongjian/images/201315.png",
     "11xiaobingdesirenkongjian/images/201341.png",
     "11xiaobingdesirenkongjian/images/201349.png",
-    "images/2025-09-28.md",
-    "images",
     "images.md",
     "2025-09-28.md",
     "11xiaobingdesirenkongjianyin.md",
     "Minecraft.md",
-    "11xiaobingdesirenkongjian/images",
     "chuangjianlianggangbiao.md",
     "mcmodclientmodyin.md",
-    "11xiaobingdesirenkongjian",
     "timuday2daan.md",
-    "docs/assets/js/render-math.js",
-    "docs/assets/js/新建 文本文档.txt",
     "liangganghebiaodulu.md",
     "meiriyiti.md",
     "mcmodyin.md",
     "kelinsicidianfenjicihui.md",
     "wuligongjuyin.md",
     "daystimu/timuday1d.md",
-    "daystimu/timuday2d.md",
-    "timuday1daan.md"
+    "daystimu/timuday2d.md"
   ]
 }

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: vcer6-ntyju
+created: 2025-10-02T23:53:55+08:00
