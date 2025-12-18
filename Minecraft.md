@@ -12,7 +12,10 @@
 * ## [About MC shaders]()
 关于光影的一些分享
 ***
-* ## About MC resources
+* ## [About MC resources()
 关于贴图包的一些分享
+***
+* ## [About MC command](Minecraft/MC_Standard_Library.md)
+关于指令的一些分享
 ***
 awa
